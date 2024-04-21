@@ -1,0 +1,26 @@
+{
+  "name": "admins-games",
+  "version": "1.0.0",
+  "description": "тут тоже ничего интересного здесь нету))",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yachilenok/admins-games.git"
+  },
+  "author": "Yachilenok",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yachilenok/admins-games/issues"
+  },
+  "homepage": "https://github.com/Yachilenok/admins-games#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2"
+  }
+}
